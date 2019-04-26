@@ -57,7 +57,7 @@ class LoggerAppenderTeams extends LoggerAppenderSkeleton {
      */
     var $requiresLayout = true;
 
-	var $url = 'https://teams.microsoft.com/l/channel/19%3a697072e40655404b8564096eb5ecab0b%40thread.skype/CRM%2520LIVE?groupId=20b65459-8fa5-4516-b6c6-d1965d42ac24&tenantId=ff483cd5-a97f-41cf-9a04-ac3ca1a30f55'; 
+	var $url = ''; 
 	
     /**
      * Constructor.
